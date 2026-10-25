@@ -1,0 +1,7 @@
+source,event_type,time_start,time_end,duration_sec,frame_start,frame_end
+1-FemaleNoGlasses-Talking,blink,00:05.939,00:05.972,0.033,178,179
+1-FemaleNoGlasses-Talking,blink,00:08.308,00:08.341,0.033,249,250
+1-FemaleNoGlasses-Talking,blink,00:10.710,00:10.744,0.033,321,322
+1-FemaleNoGlasses-Talking,blink,00:14.781,00:14.814,0.033,443,444
+1-FemaleNoGlasses-Talking,blink,00:17.150,00:17.183,0.033,514,515
+1-FemaleNoGlasses-Talking,blink,00:18.151,00:18.184,0.033,544,545

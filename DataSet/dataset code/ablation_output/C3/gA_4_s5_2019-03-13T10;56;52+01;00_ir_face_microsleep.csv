@@ -1,0 +1,6 @@
+source,event_type,time_start,time_end,duration_sec,frame_start,frame_end
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,microsleep,01:09.354,01:11.202,1.882,2064,2119
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,microsleep,01:59.119,01:59.254,0.168,3545,3549
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,microsleep,02:14.677,02:16.357,1.714,4008,4058
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,microsleep,02:35.443,02:36.720,1.31,4626,4664
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,microsleep,02:40.147,02:43.608,3.495,4766,4869

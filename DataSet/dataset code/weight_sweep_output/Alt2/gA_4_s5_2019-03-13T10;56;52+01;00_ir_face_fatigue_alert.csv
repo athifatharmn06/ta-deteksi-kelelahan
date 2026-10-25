@@ -1,0 +1,6 @@
+source,event_type,time_start,time_end,duration_sec,frame_start,frame_end
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,fatigue_alert,01:09.858,01:11.438,1.613,2079,2126
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,fatigue_alert,01:47.896,01:48.198,0.336,3211,3220
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,fatigue_alert,02:14.979,02:15.013,0.067,4017,4018
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,fatigue_alert,02:36.216,02:37.056,0.874,4649,4674
+gA_4_s5_2019-03-13T10;56;52+01;00_ir_face,fatigue_alert,02:42.802,02:43.911,1.142,4845,4878

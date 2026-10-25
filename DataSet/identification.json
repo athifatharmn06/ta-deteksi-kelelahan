@@ -1,0 +1,204 @@
+{
+  "dataset_description": {
+    "name": "DMD (Driver Monitoring Dataset) - Session s5 (Real Car, IR Camera)",
+    "total_videos": 15,
+    "total_subjects": 15,
+  },
+  "datasets": [
+    {
+      "id": "DS1",
+      "filename_group": "gA_1",
+      "condition": "gA",
+      "duration_minutes": "3:04",
+      "duration_seconds": 184,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Caucasian",
+        "estimation_age": 40,
+        "prescription_glass": "Yes"
+      }
+    },
+    {
+      "id": "DS2",
+      "filename_group": "gA_2",
+      "condition": "gA",
+      "duration_minutes": "3:01",
+      "duration_seconds": 181,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Hispanic",
+        "estimation_age": 32,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS3",
+      "filename_group": "gA_3",
+      "condition": "gA",
+      "duration_minutes": "3:05",
+      "duration_seconds": 185,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Hispanic",
+        "estimation_age": 27,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS4",
+      "filename_group": "gA_4",
+      "condition": "gA",
+      "duration_minutes": "2:55",
+      "duration_seconds": 175,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Hispanic",
+        "estimation_age": 29,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS5",
+      "filename_group": "gA_5",
+      "condition": "gA",
+      "duration_minutes": "2:57",
+      "duration_seconds": 177,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Hispanic",
+        "estimation_age": 32,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS6",
+      "filename_group": "gB_6",
+      "condition": "gB",
+      "duration_minutes": "3:01",
+      "duration_seconds": 181,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Asian",
+        "estimation_age": 27,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS7",
+      "filename_group": "gB_7",
+      "condition": "gB",
+      "duration_minutes": "3:01",
+      "duration_seconds": 181,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Hispanic",
+        "estimation_age": 37,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS8",
+      "filename_group": "gB_8",
+      "condition": "gB",
+      "duration_minutes": "3:01",
+      "duration_seconds": 181,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Caucasian",
+        "estimation_age": 24,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS9",
+      "filename_group": "gB_9",
+      "condition": "gB",
+      "duration_minutes": "2:57",
+      "duration_seconds": 177,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Asian",
+        "estimation_age": 26,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS10",
+      "filename_group": "gB_10",
+      "condition": "gB",
+      "duration_minutes": "3:02",
+      "duration_seconds": 182,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Hispanic",
+        "estimation_age": 34,
+        "prescription_glass": "Yes"
+      }
+    },
+    {
+      "id": "DS11",
+      "filename_group": "gC_11",
+      "condition": "gC",
+      "duration_minutes": "2:57",
+      "duration_seconds": 177,
+      "subject_info": {
+        "gender": "Female",
+        "race": "Hispanic",
+        "estimation_age": 31,
+        "prescription_glass": "Yes"
+      }
+    },
+    {
+      "id": "DS12",
+      "filename_group": "gC_12",
+      "condition": "gC",
+      "duration_minutes": "3:05",
+      "duration_seconds": 185,
+      "subject_info": {
+        "gender": "Female",
+        "race": "Hispanic",
+        "estimation_age": 28,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS13",
+      "filename_group": "gC_13",
+      "condition": "gC",
+      "duration_minutes": "3:00",
+      "duration_seconds": 180,
+      "subject_info": {
+        "gender": "Female",
+        "race": "Caucasian",
+        "estimation_age": 28,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS14",
+      "filename_group": "gC_14",
+      "condition": "gC",
+      "duration_minutes": "3:07",
+      "duration_seconds": 187,
+      "subject_info": {
+        "gender": "Male",
+        "race": "Hispanic",
+        "estimation_age": 31,
+        "prescription_glass": "No"
+      }
+    },
+    {
+      "id": "DS15",
+      "filename_group": "gC_15",
+      "condition": "gC",
+      "duration_minutes": "3:00",
+      "duration_seconds": 180,
+      "subject_info": {
+        "gender": "Female",
+        "race": "Hispanic",
+        "estimation_age": 26,
+        "prescription_glass": "No"
+      }
+    }
+  ]
+}

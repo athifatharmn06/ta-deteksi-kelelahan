@@ -1,0 +1,5 @@
+source,event_type,time_start,time_end,duration_sec,frame_start,frame_end
+gA_2_s5_2019-03-13T09;19;23+01;00_ir_face,fatigue_alert,01:19.939,01:20.241,0.336,2379,2388
+gA_2_s5_2019-03-13T09;19;23+01;00_ir_face,fatigue_alert,02:13.165,02:14.946,1.815,3963,4016
+gA_2_s5_2019-03-13T09;19;23+01;00_ir_face,fatigue_alert,02:31.041,02:32.016,1.008,4495,4524
+gA_2_s5_2019-03-13T09;19;23+01;00_ir_face,fatigue_alert,02:53.756,02:55.604,1.882,5171,5226

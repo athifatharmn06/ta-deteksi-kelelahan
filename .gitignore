@@ -1,0 +1,56 @@
+# Python environment
+venv/
+env/
+.venv/
+myenv/
+.env
+.env.*
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs & temporary files
+*.log
+*.tmp
+outputs/
+
+# Large media & archives (mencegah video mentah/arsip besar ter-commit)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.tar
+*.gz
+*.zip
+*.7z
+
+# Dokumen laporan & jurnal lokal
+*.docx
+*.pptx
+*.pdf
+Laporan Progress/
+Jurnal JNTETI/
+
+# Backup git lokal
+.git_backup*/
+
+# Pengecualian: audio runtime Raspberry Pi tetap di-track
+!src/rpi/audio/
+!src/rpi/audio/**

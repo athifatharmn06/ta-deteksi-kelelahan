@@ -1,0 +1,5 @@
+source,group,subject,session,action_type,time_start,time_end,duration_sec,frame_start,frame_end
+gC_13_s5_2019-03-12T10;03;00+01;00_rgb_ann_drowsiness,gC,13,s5,yawning/Yawning without hand,00:43.633,00:49.666,6.067,1309,1490
+gC_13_s5_2019-03-12T10;03;00+01;00_rgb_ann_drowsiness,gC,13,s5,yawning/Yawning with hand,01:10.700,01:15.000,4.333,2121,2250
+gC_13_s5_2019-03-12T10;03;00+01;00_rgb_ann_drowsiness,gC,13,s5,yawning/Yawning without hand,01:57.600,02:02.466,4.9,3528,3674
+gC_13_s5_2019-03-12T10;03;00+01;00_rgb_ann_drowsiness,gC,13,s5,yawning/Yawning with hand,02:21.966,02:28.166,6.233,4259,4445

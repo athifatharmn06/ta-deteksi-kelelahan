@@ -1,0 +1,4 @@
+source,event_type,time_start,time_end,duration_sec,frame_start,frame_end
+gC_11_s5_2019-03-12T09;08;15+01;00_ir_face,yawning,00:24.260,00:24.596,0.37,722,732
+gC_11_s5_2019-03-12T09;08;15+01;00_ir_face,yawning,00:43.615,00:48.084,4.503,1298,1431
+gC_11_s5_2019-03-12T09;08;15+01;00_ir_face,yawning,01:51.122,01:54.516,3.427,3307,3408

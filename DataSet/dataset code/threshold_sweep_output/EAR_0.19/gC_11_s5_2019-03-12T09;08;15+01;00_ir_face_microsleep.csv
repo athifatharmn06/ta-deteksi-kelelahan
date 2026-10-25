@@ -1,0 +1,4 @@
+source,event_type,time_start,time_end,duration_sec,frame_start,frame_end
+gC_11_s5_2019-03-12T09;08;15+01;00_ir_face,microsleep,01:32.069,01:32.305,0.269,2740,2747
+gC_11_s5_2019-03-12T09;08;15+01;00_ir_face,microsleep,02:34.166,02:34.939,0.806,4588,4611
+gC_11_s5_2019-03-12T09;08;15+01;00_ir_face,microsleep,02:46.263,02:47.674,1.445,4948,4990

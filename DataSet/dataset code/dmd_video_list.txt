@@ -1,0 +1,15 @@
+﻿DMD Dataset 1|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 1\gA_1_s5_2019-03-14T14;26;17+01;00_ir_face.mp4
+DMD Dataset 2|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 2\gA_2_s5_2019-03-13T09;19;23+01;00_ir_face.mp4
+DMD Dataset 3|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 3\gA_3_s5_2019-03-13T09;36;25+01;00_ir_face.mp4
+DMD Dataset 4|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 4\gA_4_s5_2019-03-13T10;56;52+01;00_ir_face.mp4
+DMD Dataset 5|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 5\gA_5_s5_2019-03-13T09;06;49+01;00_ir_face.mp4
+DMD Dataset 6|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 6\gB_6_s5_2019-03-13T13;37;11+01;00_ir_face.mp4
+DMD Dataset 7|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 7\gB_7_s5_2019-03-13T13;55;52+01;00_ir_face.mp4
+DMD Dataset 8|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 8\gB_8_s5_2019-03-13T14;10;09+01;00_ir_face.mp4
+DMD Dataset 9|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 9\gB_9_s5_2019-03-07T16;31;48+01;00_ir_face.mp4
+DMD Dataset 10|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 10\gB_10_s5_2019-03-13T14;17;28+01;00_ir_face.mp4
+DMD Dataset 11|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 11\gC_11_s5_2019-03-12T09;08;15+01;00_ir_face.mp4
+DMD Dataset 12|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 12\gC_12_s5_2019-03-14T09;56;52+01;00_ir_face.mp4
+DMD Dataset 13|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 13\gC_13_s5_2019-03-12T10;03;00+01;00_ir_face.mp4
+DMD Dataset 14|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 14\gC_14_s5_2019-03-12T09;18;58+01;00_ir_face.mp4
+DMD Dataset 15|C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 15\gC_15_s5_2019-03-12T11;03;23+01;00_ir_face.mp4

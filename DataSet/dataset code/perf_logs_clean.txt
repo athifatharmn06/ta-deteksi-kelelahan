@@ -1,0 +1,47 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.8.10)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[INFO] Memulai Inisialisasi MediaPipe...
+[INFO] Menggunakan BlazeFace untuk ROI detection...
+[INFO] Memulai Inisialisasi Audio...
+[WARNING] Gagal memuat audio: No file 'kelelahan ringan.wav' found in working directory 'C:\TA Deteksi Kelelahan\DataSet\dataset code'.
+[INFO] Sistem akan berjalan tanpa suara.
+Checking folder: C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 1
+Found videos: ['gA_1_s5_2019-03-14T14;26;17+01;00_ir_face.mp4']
+Mengukur performa di video: C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 1\gA_1_s5_2019-03-14T14;26;17+01;00_ir_face.mp4
+[INFO] Sistem Deteksi Kelelahan untuk Video File
+[INFO] Strategi: BlazeFace (ROI) → Face Mesh (Landmark di ROI)
+[INFO] Membuka video: C:\TA Deteksi Kelelahan\DataSet\DMD Dataset 1\gA_1_s5_2019-03-14T14;26;17+01;00_ir_face.mp4
+[INFO] Resolusi: 1280x720
+[INFO] FPS Video: 29.76
+[INFO] Total Frame: 5480
+[INFO] Durasi: 184.14 detik
+
+[INFO] Sistem siap.
+[INFO] Kalibrasi otomatis: 5.0 detik pertama video
+[INFO] Tekan 'q' untuk keluar, 's' untuk screenshot
+  [PitchCalibrator] baseline=-5.21 deg  std=0.283  window=[70:99] / 142 samples
+
+[INFO] Kalibrasi otomatis selesai!
+  Baseline EAR: 0.268 -> Th: 0.187
+  Baseline MAR: 0.031 -> Th: 0.300
+  Baseline Pitch: -5.2 deg  (stable std=0.283)
+  Sampel: 142 frame
+[INFO] Membersihkan resource...
+
+[INFO] Menyimpan hasil ke CSV...
+[CSV] gA_1_s5_2019-03-14T14;26;17+01;00_ir_face_yawning.csv   → 2 yawns
+[CSV] gA_1_s5_2019-03-14T14;26;17+01;00_ir_face_blink.csv     → 50 blinks
+[CSV] gA_1_s5_2019-03-14T14;26;17+01;00_ir_face_microsleep.csv→ 3 microsleeps
+[CSV] gA_1_s5_2019-03-14T14;26;17+01;00_ir_face_perclos.csv   → 179 seconds
+
+[SUMMARY]
+  yawning    → 2
+  blink      → 50
+  microsleep → 3
+
+==================================================
+[PERF] Avg FPS: 47.8
+[PERF] Avg CPU: 39.9%
+[PERF] Peak CPU: 100.0%
+==================================================
+
